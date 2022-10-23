@@ -15,9 +15,24 @@ const data = [
     icon: faGithub,
   },
   {
+    link: 'https://facebook.com/',
+    label: 'Facebook',
+    icon: faFacebookF,
+  },
+  {
+    link: 'https://www.instagram.com/',
+    label: 'Instagram',
+    icon: faInstagram,
+  },
+  {
     link: 'https://www.linkedin.com/in/michaelevol/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
+  },
+  {
+    link: 'https://angel.co/',
+    label: 'Angel List',
+    icon: faAngellist,
   },
   {
     link: 'https://twitter.com/yuchenl35550795',
