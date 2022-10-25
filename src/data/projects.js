@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Jamming Detection and Classification in OFDM-based UAVs',
     subtitle: 'EEE Access, Feb 2022.',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/matrix2.png',
     date: '08/2020 – 12/2021',
     desc:
       'Built for a social impact hackathon. '
